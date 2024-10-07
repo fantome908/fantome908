@@ -1,50 +1,37 @@
 # Hi, I'm NoName! 👋
 
-I am a passionate M.Tech CS student at IIT Kharagpur, driven by a curiosity for technology and a love for writing. My journey involves delving into the world of computer science, exploring new ideas, and sharing my insights with the community.
+I am a passionate IT enthusiast with a growing focus on cybersecurity and software development. My journey involves exploring the intricacies of technology, from low-level programming in assembly to high-level applications in Python and Java, and sharing my insights with the community.
 
 ![<username>'s Stats](https://github-readme-stats.vercel.app/api?username=<username>&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
 
 ## 🚀 About Me
 
-- 🔭 I'm currently pursuing my Master's in Computer Science at IIT Kharagpur.
-- 📝 I write in-depth, long-form articles on my website [theenthusiast.dev](https://theenthusiast.dev), accumulating over 20k views within just 2 months.
-- 🌐 Proud member of the [Hackernoon Blogging Fellowship](https://hackernoon.com/), contributing to the tech community.
-- ✍️ Content Writer at [freeCodeCamp](https://www.freecodecamp.org/), gearing up to share valuable insights with the global coding community.
-
-## My Articles
-- [JavaScript Engine and Runtime Explained](https://www.freecodecamp.org/news/javascript-engine-and-runtime-explained/)
-
+- 🔭 I’m currently an IT professional and an alternant, specializing in cybersecurity.
+- 🌐 Passionate about technology and development, I work with languages like Python, Java, Node.js, and C, alongside assembly (AT&T syntax).
+- 📝 On a mission to deepen my expertise and contribute to the tech community with hands-on experience and learnings.
 
 ## Tech Stack
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,wasm)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=python,java,nodejs,c,assembly)](https://skillicons.dev)
 
 ## 🌱 Currently Exploring
 
-- 🚀 Learning Full Stack Web Development
-  - Exploring the ins and outs of React and Redux for dynamic front-end experiences.
-  - Navigating through the world of React Router for seamless page transitions.
-  - Styling with Tailwind CSS to create modern and responsive user interfaces.
-  - Building server-side applications with Django, a powerful Python web framework.
-  - Diving into PostgreSQL for efficient and scalable database management.
+- 🚀 Cybersecurity strategies, staying updated with the latest trends and security techniques.
+- 🌐 Full Stack Web Development for building more robust and secure applications.
+- Learning more about networking and system security.
 
- ## 🏆 Achievements
+## 🏆 Achievements
 
-- 🌟 Completed Hacktoberfest 2023 - Contributed to open source projects and celebrated the spirit of collaboration.
-
+- 🌟 Diving deeper into both backend systems and cybersecurity while exploring various programming paradigms.
+- Successfully contributed to multiple IT projects, from system migration to maintaining network integrity.
 
 ## 📬 Get in Touch
 
 - Connect with me on [Twitter](https://twitter.com/introvertedbot)
-- Read more of my articles on [theenthusiast.dev](https://theenthusiast.dev)
+- Let’s share knowledge about IT and cybersecurity!
 
-Thanks for stopping by! Let's connect and explore the fascinating world of technology together. 🚀
-
-
+Thanks for stopping by! Let's connect and grow our tech skills together. 🚀
 
 <!--
-
-Here are some ideas to get you started:
-
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
