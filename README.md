@@ -26,7 +26,6 @@ I am a passionate IT enthusiast with a growing focus on cybersecurity and softwa
 
 ## 📬 Get in Touch
 
-- Connect with me on [Twitter](https://twitter.com/introvertedbot)
 - Let’s share knowledge about IT and cybersecurity!
 
 Thanks for stopping by! Let's connect and grow our tech skills together. 🚀
