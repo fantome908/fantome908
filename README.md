@@ -2,7 +2,7 @@
 
 I am a passionate IT enthusiast with a growing focus on cybersecurity and software development. My journey involves exploring the intricacies of technology, from low-level programming in assembly to high-level applications in Python and Java, and sharing my insights with the community.
 
-![<fantome908>'s Stats](https://github-readme-stats.vercel.app/api?username=<username>&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
+![NoName GitHub stats](https://github-readme-stats.vercel.app/api?username=fantome908&theme=transparent_icons=true)
 
 ## 🚀 About Me
 
